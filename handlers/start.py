@@ -24,7 +24,7 @@ TEKAN TOMBOL DIBAWAH UNTUK TUTORIAL! JANGAN MALAS MEMBACA....""",
                         "CARA MENGGUNAKANNYA", url="https://telegra.ph/ʜɪʟᴇʀ-ʙʀ-03-15"
                    ),
                     InlineKeyboardButton(
-                        "SUPPORT CHANNEL", url="https://t.me/storyangkasa"
+                        "SUPPORT CHANNEL", url="https://t.me/RelativesSTORY"
                    )
                 ]
             ]
